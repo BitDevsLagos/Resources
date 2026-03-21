@@ -32,7 +32,22 @@ BTrust learning resources and pathways: https://pathways.btrust.tech/
 
 ##### Summer of Bitcoin (https://www.summerofbitcoin.org/)
 
-## Open source projects:
+
+## Funding and support:
+
+##### BTrust - https://www.btrust.tech/grants
+
+##### Human Right Foundation (HRF) - https://hrf.org/program/financial-freedom/bitcoin-development-fund/
+
+##### Spiral - https://spiral.xyz/
+
+##### OpenSats - https://opensats.org/
+
+##### Brink - https://brink.dev/programs
+
+##### 2140 - https://2140.dev/
+
+## Open source projects to contribute to
 
 ### Protocol
 ##### Bitcoin core
